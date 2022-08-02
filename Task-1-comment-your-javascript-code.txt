@@ -1,0 +1,3 @@
+// This is an new in-line comment.
+/* This is a new
+multi-line comment */
